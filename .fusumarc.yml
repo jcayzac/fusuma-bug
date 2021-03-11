@@ -1,0 +1,17 @@
+meta:
+  url:
+  title:
+  description:
+  siteName:
+  sns: ['twitter']
+slide:
+  chart: true
+  math: true
+  loop: false
+  ui:
+    sidebar: true
+    pagination: # bullets | progressbar | fraction
+    effect: # fade | cube | flip
+  code:
+    plugins: []
+    theme: default

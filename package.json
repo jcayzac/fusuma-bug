@@ -1,0 +1,17 @@
+{
+  "name": "fusuma-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fusuma": "^2.7.0"
+  },
+  "dependencies": {
+    "mermaid": "^8.9.1"
+  }
+}
